@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Mirror Force",
+        "image": "https://www.magicmadhouse.co.uk/articles/wp-content/uploads/2015/04/Mirror-Force.png"
+    },
+    {
+        "id": 1,
+        "name": "Trap Hole",
+        "image": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/TrapHole-YS15-EU-C-1E.png/revision/latest?cb=20150530120307"
+    },
+    {
+        "id": 2,
+        "name": "Trap of Darkness",
+        "image": "http://static.api3.studiobebop.net/ygo_data/card_images/Trap_of_Darkness.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Judgement of Anubis",
+        "image": "https://s.ecrater.com/stores/232615/54ac5200a6c58_232615b.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Magical Hats",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.CLywHWQ3ETT6qXRXr34UCQHaKv&pid=15.1&P=0&w=300&h=300"
+    },
+    {
+        "id": 5,
+        "name": "Grave Robber",
+        "image": "http://i44.tinypic.com/s2y2s5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Energy Drain",
+        "image": "http://www.paybest.com/jpg1/energy_drain.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Chivalry",
+        "image": "http://vignette4.wikia.nocookie.net/yugioh/images/1/14/Chivalry-DREV-EN-UR-1E.jpg/revision/latest?cb=20100814234118"
+    },
+    {
+        "id": 8,
+        "name": "Solemn Warning",
+        "image": "https://static-3.studiobebop.net/ygo_data/card_images/Solemn_Warning.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Revival of the Immortals",
+        "image": "http://lib.store.yahoo.net/lib/inmint/1anpr-en089.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Wrong!",
+        "image": "https://orig00.deviantart.net/1b83/f/2007/242/c/8/yu_gi_oh_card_17_by_luigi_master.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Hysteric Party",
+        "image": "https://s-media-cache-ak0.pinimg.com/736x/2c/53/86/2c53867c7856e9733b4fb72d50b43e69.jpg"
+    }
+]
