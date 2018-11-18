@@ -1,0 +1,16 @@
+img {
+    height: 20%;
+    position: relative;
+    float: left;
+    align-items: center;
+    width: 20%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: white;
+  }
+
+  .container { 
+      width: 60%;
+      height: 5%;
+  }
